@@ -12,6 +12,7 @@ function createAddQuoteForm(params) {
 }
 
 // ["text", "category"]
+// ["random", "innerHTML"]
 
 showRandomQuote()
 createAddQuoteForm()
