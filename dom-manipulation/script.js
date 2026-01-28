@@ -15,6 +15,7 @@ function createAddQuoteForm(params) {
 // ["random", "innerHTML"]
 // ["Math.random"]
 // ["createElement", "appendChild"]
+// ["addEventListener"]
 
 showRandomQuote()
 createAddQuoteForm()
