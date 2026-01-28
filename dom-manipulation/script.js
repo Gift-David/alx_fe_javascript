@@ -11,5 +11,7 @@ function createAddQuoteForm(params) {
     
 }
 
+// ["text", "category"]
+
 showRandomQuote()
 createAddQuoteForm()
